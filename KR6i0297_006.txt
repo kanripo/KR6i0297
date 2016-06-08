@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:38.022056
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:16
 #+TITLE: 大乘寶雲經
 #+PROPERTY: CBETA_ID T16n0659
 #+PROPERTY: ID KR6i0297
@@ -15,7 +15,7 @@
 ¶
 梁扶南三藏曼陀羅仙共僧伽婆羅譯¶
 
-6二諦品(六)
+* 6二諦品(六)
 :PROPERTIES:
 :head: 二諦品第六
 :END:

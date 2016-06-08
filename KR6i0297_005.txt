@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:37.991705
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:16
 #+TITLE: 大乘寶雲經
 #+PROPERTY: CBETA_ID T16n0659
 #+PROPERTY: ID KR6i0297
@@ -16,7 +16,7 @@
 ¶
 梁扶南三藏曼陀羅仙共僧伽婆羅譯¶
 
-5安樂行品(五)
+* 5安樂行品(五)
 :PROPERTIES:
 :head: 安樂行品第五
 :END:
