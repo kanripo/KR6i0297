@@ -1,25 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:38.022056
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:16
 #+TITLE: 大乘寶雲經
 #+PROPERTY: CBETA_ID T16n0659
 #+PROPERTY: ID KR6i0297
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 659
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0297_T_006-0272b> 
 #+PROPERTY: JUAN 6
 ¶
-
- 《大乘寶雲經》卷第六¶
+《大乘寶雲經》卷第六¶
 ¶
 梁扶南三藏曼陀羅仙共僧伽婆羅譯¶
 
-6二諦品(六)
-:PROPERTIES:
-:head: 二諦品第六
-:END:
-¶
+* 二諦品第六¶
 
 爾時，世尊復告降伏一切障礙菩薩摩訶薩¶
 言：「善男子！菩薩摩訶薩具足十法，善解世諦。¶
@@ -254,7 +249,7 @@
 輕稱小斗欺誑於人、不以詐親及諸欺罔而求¶
 財物。
 
-「云何菩薩離不淨財？菩薩若於塔物相¶
+「云何薩離不淨財？菩薩若於塔物相¶
 關、法物相關、僧物相關，絓是不與、非隨喜者，悉¶
 不受用。
 

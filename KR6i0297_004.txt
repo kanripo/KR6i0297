@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:37.959124
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:16
 #+TITLE: 大乘寶雲經
 #+PROPERTY: CBETA_ID T16n0659
 #+PROPERTY: ID KR6i0297
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 659
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0297_T_004-0259a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大乘寶雲經》卷第四¶
+《大乘寶雲經》卷第四¶
 ¶
 梁扶南三藏曼陀羅仙共僧伽婆羅譯¶
 
-4陀羅尼品(四)
-:PROPERTIES:
-:head: 陀羅尼品第四
-:END:
-¶
+* 陀羅尼品第四¶
 
 爾時，佛告降伏一切障礙菩薩摩訶薩言：「善¶
 男子！菩薩摩訶薩具足十法，深解微細。何等¶
@@ -101,7 +96,7 @@
 義辯才。何以故？證得法故。
 
 「善男子！未證法者¶
-有義損減非得法者，菩薩辯才無文損減。何¶
+有義損減非得法者，菩薩辯才無文損滅。何¶
 以故？通學一切諸經論故。不學經論有失文¶
 章，若學經論無有此失。
 
